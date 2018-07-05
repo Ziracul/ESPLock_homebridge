@@ -1,5 +1,5 @@
 /*
-   ESP8266 HTTP Lock by Yan
+   ESP8266 HTTP Lock
    Make a Siri HomeKit enabled lock with ESPea 
  */
 
